@@ -1,7 +1,7 @@
 <h1 align="center">Matheus Fideles</h1>
 
 <p align="center">
-  💻 Backend Developer in Progress | 🚀 Future Software Engineer
+  💻 Desenvolvedor Backend em Progresso | 🚀 Futuro Engenheiro de Software
 </p>
 
 <p align="center">
