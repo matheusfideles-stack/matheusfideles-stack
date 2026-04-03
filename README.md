@@ -1,56 +1,46 @@
-# Matheus Fideles
+<h1 align="center">Matheus Fideles</h1>
 
-🎓 Estudante de Sistemas De Informação 
-💻 Desenvolvedor em formação com foco em Backend  
+<p align="center">
+  💻 Backend Developer in Progress | 🚀 Future Software Engineer
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Focado+em+Backend;Construindo+APIs;Estudando+Java+e+MySQL;Sempre+evoluindo..." />
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software.  
-Tenho experiência com desenvolvimento web e estou evoluindo para o backend, estudando banco de dados, APIs e lógica de sistemas escaláveis.
+Desenvolvedor em formação com foco em backend, apaixonado por construir sistemas, resolver problemas e evoluir constantemente.
 
-Atualmente focado em me tornar um desenvolvedor backend completo 🚀
-
----
-
-## 🛠️ Linguagens & Ferramentas
-
-### 🚀 Uso no dia a dia:
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
-![C](https://img.shields.io/badge/C-gray)
-
-### 📚 Aprendendo:
-![Java](https://img.shields.io/badge/Java-red)
-![C++](https://img.shields.io/badge/C++-blue)
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![C#](https://img.shields.io/badge/Csharp-purple)
+Experiência com desenvolvimento web e atualmente aprofundando conhecimentos em:
+- APIs REST
+- Banco de dados
+- Estrutura de sistemas backend
 
 ---
 
-## 📊 Agora mesmo
+## ⚙️ Stack Principal
 
-| Status          | Detalhes                          |
-|-----------------|----------------------------------|
-| 🟢 Focado em    | Backend Development              |
-| 📚 Estudando    | Java, MySQL e APIs REST          |
-| 🎯 Objetivo     | Primeiro projeto backend real    |
-| 💼 Aberto para  | Estágio / Projetos               |
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+</p>
 
 ---
 
-## 📈 Estatísticas
+## 📚 Em evolução
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,cs" />
+</p>
 
 ---
 
-## 📬 Contato
+## 📊 Atualmente
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/matheus-fideles-46b932313/)
-[![Email](https://img.shields.io/badge/Email-red)](mailto:matheusfideles.stack)
+```text
+🎯 Foco: Backend Development
+📚 Estudando: Java | MySQL | APIs REST
+🚀 Objetivo: Primeiro sistema backend completo
+💼 Disponível para: Estágio / Projetos
