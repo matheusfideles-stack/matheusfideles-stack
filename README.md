@@ -1,16 +1,12 @@
-<h1 align="center">Matheus Fideles</h1>
+<h1 align="center"> Matheus Fideles Araújo </h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend em Progresso | 🚀 Futuro Engenheiro de Software
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Sempre+evoluindo..." />
+   Desenvolvedor Backend em Progresso |  Futuro Engenheiro de Software
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## Sobre mim
 
 Desenvolvedor em formação com foco em backend, apaixonado por construir sistemas, resolver problemas e evoluir constantemente.
 
@@ -21,26 +17,26 @@ Experiência com desenvolvimento web e atualmente aprofundando conhecimentos em:
 
 ---
 
-## ⚙️ Stack Principal
+##  Stack Principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c" />
 </p>
 
 ---
 
-## 📚 Em evolução
+##  Em evolução
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,cs" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,cs,python" />
 </p>
 
 ---
 
-## 📊 Atualmente
+##  Atualmente
 
 ```text
-🎯 Foco: Backend Development
-📚 Estudando: Java | MySQL | APIs REST
-🚀 Objetivo: Primeiro sistema backend completo
-💼 Disponível para: Estágio / Projetos
+ Foco: Backend Development
+ Estudando: Java | MySQL | APIs REST
+ Objetivo: Primeiro sistema backend completo
+ Disponível para: Estágio / Projetos
