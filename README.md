@@ -20,7 +20,7 @@ Experiência com desenvolvimento web e atualmente aprofundando conhecimentos em:
 ##  Stack Principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,java" />
 </p>
 
 ---
@@ -28,7 +28,7 @@ Experiência com desenvolvimento web e atualmente aprofundando conhecimentos em:
 ##  Em evolução
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=js,cs,c" />
 </p>
 
 ---
